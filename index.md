@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Quick Info on OmegaT Localisation</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
-</head>
-<body>
+
 <h1 id="current-situation-with-omegat-localisation">Current situation with OmegaT localisation</h1>
 <p>Currently OmegaT GUI is localised into 37 languages (as least partially, as not all localisations are up to date). The documentation (Quick Start or full User’s Manual) for various versions of the program is translated into 36 languages. OmegaT website is available in 29 languages.</p>
 <h1 id="ways-to-contribute-as-an-omegat-localiser">Ways to contribute as an OmegaT localiser</h1>
