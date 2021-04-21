@@ -19,7 +19,7 @@
 <li><p><strong>Inform the localisation manager when your work is ready</strong> to be included in the next release. When <code>Bundle.properties</code>, <code>readme.txt</code> and/or other files in the project are finished and double-checked, and you feel they are ready for the next release, <a href="mailto:l10n@omegat.org">write to the localisation manager</a> to inform which files are completed. For the user documentation, if only a part of the documentation is translated, you may still inform the manager, but most likely partial documentation is not going to be released. Committing target files (<em>Project → Commit Target Files</em>) is unnecessary.</p></li>
 <li><p><em>NOTE</em>: If you are joining an active team, you may get a message from the localiser manager with the email of the admin of that team and/or other team members for you to coordinate your efforts and to avoid translation conflicts.</p></li>
 </ol>
-<h2 id="omegat-l10n-packages">OmegaT L10N packages<a name="l10n_pack" /a></h2>
+<h2 id="omegat-l10n-packages">OmegaT L10N packages<a name="l10n_pack"/a></h2>
 <p><a href="https://sourceforge.net/projects/omegat/files/Other%20-%20Localization%20projects/">OmegaT L10N pack</a> is a set of files for localisation prepared as a zipped OmegaT project. Minimal L10N pack contains GUI strings, ReadMe and Quick Start, whereas Full L10N pack contains everything the Minimal does plus the full documentation. OmegaT L10N packs do not contain translatable website materials. Providing localisation using these packages is deprecated, but still possible.</p>
 <h3 id="how-it-works-1">How it works</h3>
 <ul>
@@ -66,5 +66,3 @@
 <p>If you used OmegaT_5.5.0_Beta_Without_JRE.zip, just run the following command from the Terminal:<br/> <code>java -jar /path/to/OmegaT.jar resource-bundle=/path/to/Bundle_xx.properties</code>.</p>
 <p>If you used OmegaT.app, just reopen OmegaT.app</p></li>
 </ul>
-</body>
-</html>
